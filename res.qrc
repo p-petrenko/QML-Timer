@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/blurbg.jpeg</file>
+        <file>images/blurbg2.jpg</file>
+        <file>images/fireworks.gif</file>
+        <file>music/anxious_fretless_bass.mp3</file>
+        <file>music/anxious_violin.mp3</file>
+        <file>music/bottle_sound.mp3</file>
+        <file>music/electronic_sound2.mp3</file>
+        <file>music/electronic_sound3.mp3</file>
+        <file>music/electronic_sound4.mp3</file>
+        <file>music/electronic_sound6.mp3</file>
+        <file>music/piano.mp3</file>
+        <file>music/piano2.mp3</file>
+        <file>music/piano3.mp3</file>
+        <file>music/piano4.mp3</file>
+        <file>music/piano5.mp3</file>
+        <file>music/piano_synth.mp3</file>
+        <file>music/pipi.mp3</file>
+        <file>music/pipipi.mp3</file>
+        <file>music/rhythmical_drums1.mp3</file>
+        <file>music/rhythmical_drums2.mp3</file>
+        <file>music/seagulls_and_foghorn.mp3</file>
+        <file>music/sleigh_bells.mp3</file>
+    </qresource>
+</RCC>
+

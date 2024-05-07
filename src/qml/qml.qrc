@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>TopView.qml</file>
+        <file>Stopwatch/StopwatchView.qml</file>
+        <file>Countdown/CountdownView.qml</file>
+        <file>Countdown/CDInputField.qml</file>
+        <file>SwipeTimerView.qml</file>
+        <file>Components/GlowEffectView.qml</file>
+        <file>Components/ButtonGreen.qml</file>
+        <file>Components/MelodyChoice.qml</file>
+        <file>Components/CongratulationsScreen.qml</file>
+        <file>Components/CursorComp.qml</file>
+    </qresource>
+</RCC>
